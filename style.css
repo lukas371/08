@@ -1,0 +1,65 @@
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+ body{
+     background-color: #D5EBE8 ;
+}
+ .card {
+     width: 20%;
+     text-align: center;
+     background: #FFFFFF;
+     margin: 10% auto;
+}
+ img{
+     width: 300px ;
+     height: 300px ;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+ table, th, td {
+     border: 1px solid #FFFFFF;
+     border-collapse: collapse;
+     background-color: #FFFFFF;
+}
+ th, td {
+     height: 50%;
+     width: 15%;
+}
+ table {
+     border-collapse: collapse;
+}
+ table, th, td , tr {
+     border: 1px solid #FFFFFF;
+     text-align: left;
+     padding: 10px;
+     margin: auto;
+}
+ .box {
+     width: 340px;
+     box-shadow: 5px 8px 12px #B3CAC8;
+     background: #FFFFFF;
+     margin: 10% auto;
+     padding-bottom: 2px;
+     padding-top: 2px;
+}
+ .font {
+     font-family: 'Dancing Script', cursive;
+     padding-bottom: 10px;
+}
+ .color{
+     color : #000;
+}
+ h1{
+     border: 1px solid #EDEDED ;
+     padding: 10px ;
+     margin: 20px ;
+}
+ .border {
+     border: 1px solid #EDEDED ;
+     padding: 10px ;
+     margin:20px ;
+}
+ 
